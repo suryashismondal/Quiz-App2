@@ -79,7 +79,7 @@ const Quiz = () => {
 
 return (
     <div className='bg-white p-8 space-y-5 rounded shadow-md shadow-gray-700'>
-      <h1 className='text-3xl font-semibold'>Quiz <span className='text-violet-700'>App</span></h1>
+      <h1 className='text-3xl font-semibold'>Quizs <span className='text-violet-700'>App</span></h1>
       <hr className='bg-gray-400 h-[2px]' />
       {!start ? (
         <div className='flex justify-center'>
