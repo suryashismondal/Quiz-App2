@@ -1,11 +1,11 @@
 export const data = [
     {
-      question: "Which device is required for the Internet connection?",
+      question: "Which device is not required for the Internet connection?",
       option1: "Modem",
       option2: "Router",
       option3: "LAN Cable",
       option4: "Pen Drive",
-      ans: 1,
+      ans: 4,
     },
     {
       question: "What is used to create frontend file of a website?",
